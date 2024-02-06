@@ -1,5 +1,5 @@
-"service" = {
-  "name" = "carbonio-prometheus-mysqld-exporter"
-  "tags" = ["prometheus-exporter"]
-  "port" = 9104
+service  = {
+  name  = "carbonio-prometheus-mysqld-exporter"
+  tags  = ["prometheus-exporter"]
+  port  = 9104
 }

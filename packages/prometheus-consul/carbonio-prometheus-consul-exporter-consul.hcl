@@ -1,5 +1,5 @@
-"service" = {
-  "name" = "carbonio-prometheus-consul-exporter"
-  "tags" = ["prometheus-exporter"]
-  "port" = 9107
+service  = {
+  name  = "carbonio-prometheus-consul-exporter"
+  tags  = ["prometheus-exporter"]
+  port  = 9107
 }

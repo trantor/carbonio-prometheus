@@ -1,4 +1,4 @@
-"service" = {
-  "name" = "carbonio-prometheus-alertmanager"
-  "port" = 9100
+service  = {
+  name  = "carbonio-prometheus-alertmanager"
+  port  = 9100
 }
